@@ -1,12 +1,12 @@
 === Referer Spam Blocker ===
 Contributors: wpmaintainer, theandystratton, bmoredrew, szbl
-Tags: spam, domain, block
+Tags: spam, domain, block, referer, referer spam, blacklist
 Requires at least: 4.2
 Tested up to: 4.2.2
 Stable tag: trunk
 License: GPL
 
-Block known spam referring domains at the WordPress level. Serves the offending referring URL an HTTP 403 Forbidden page. Customize your own list of domains using the settings page. 
+Block/blacklist known (and custom) spam referring domains at the WordPress level with an HTTP 403 Forbidden page.
 
 == Description ==
 Referer spam has been growing and clogging up website analytics data (such as Google Analytics) with fraudulent traffic statistics. Millions of users are reporting issues and it has become a major nuisance. 
